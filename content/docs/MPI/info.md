@@ -12,7 +12,7 @@ weight: 5
 ---
 
 # **Info**
+Site de M. Pécheux : [carnot-cpge](https://carnot.cpge.info/)
 
 ## **Fonctionnement**
 
-Site de M. Pécheux : [carnot-cpge](https://carnot.cpge.info/)

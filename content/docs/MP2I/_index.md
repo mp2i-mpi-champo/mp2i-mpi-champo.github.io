@@ -23,7 +23,3 @@ Organisez-vous pendant les vacances, tout faire le dernier weekend est une **tr�
 Pour le **Français**, concentrez vous sur la méthode et entrainez-vous au résumé, faites quand même évidemment bien les choses, le français peut être décisif pour les places en classes étoilées selon le dossier.
 
 Pour l'**Anglais**, travaillez sérieusement les TG (fiches de grammaire), c'est des points que vous ne perdrez plus en DS, apprennez et suivez la méthode, ce sont des points "gratuits". 
-
-## **Liens utiles**
-Ci-dessous quelques liens utiles spécifiques à la MP2I n'ayant pas leur place dans les autres pages :
-- [Drive pour les colles d'anglais](https://drive.google.com/drive/folders/1b3StPB9kaFj8121e5JGmR5QqkUChph9B?usp=drive_link)

@@ -7,10 +7,7 @@ type: "docs"
 
 Ce site regroupe des informations utiles aussi bien pour la MP2I que pour la MPI de Champollion.
 
-## **Liens utiles**
-- [portail formations UGA](https://eformation.univ-grenoble-alpes.fr)
-- [beluga : blibliothèque en ligne de l'UGA](https://beluga.univ-grenoble-alpes.fr)
-- [accès PLUS+](https://lycee-champollion.prepas-plus.fr/) (plateforme pour les notes en prépa)
+> Accès aux [liens utiles](/docs/liens-utiles)
 
 ## **Discords liés à la filière**
 {{< discord code="tRtupZQtAT" text="MP2I/MPI Champollion - Interclasses">}}

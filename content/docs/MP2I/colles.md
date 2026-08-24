@@ -40,7 +40,7 @@ Pour les colles d'anglais :
 
 Le fonctionnement change un peu un milieu d'année avec l'apparition d'un audio mais vous verrez bien.
 
-> [Méthodologie détaillée pour les colles d'anglais](/docs/mp2i/methodo_anglais) proposée par Elio (MP2I 2025-2026)
+> [Méthodologie détaillée pour les colles d'anglais](/docs/mp2i/methodo-anglais) proposée par Elio (MP2I 2025-2026)
 
 Enfin, ne vous souciez pas trop des colles de français (peut-être que vous découvrez leur existence en lisant ça), il n'y en a **que 3 dans l'année** et il n'y a pas besoin de s'y préparer : venez comme vous êtes et tapez vous une note de merde c'est la coutume.
 
