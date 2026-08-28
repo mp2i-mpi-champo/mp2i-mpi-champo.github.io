@@ -12,6 +12,7 @@ weight: 5
 ---
 
 # **Maths**
+{{< pdf "/files/integrale_mpi.pdf" "Intégrale MPI" >}}
 
 ## **Fonctionnement**
 ## **Exercices supplémentaires**
