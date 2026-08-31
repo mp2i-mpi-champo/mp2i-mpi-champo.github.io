@@ -16,7 +16,7 @@ Bienvenue en MP2I ! Tu trouveras ci-dessous des informations qui peuvent être u
 Si jamais vous n'être pas encore rentrés en MP2I, la **priorité n°1** est de **lire les livre de philo-lettres**.
 
 ## **Conseils pour la MP2I**
-Le travail et l'activité principale en MP2I, essayez au plus vite de trouver votre rythme et **n'oubliez pas de vous reposer**, le repos est clé pour pouvoir suivre correctement en classe.
+Le travail est l'activité principale en MP2I, essayez au plus vite de trouver votre rythme et **n'oubliez pas de vous reposer**, le repos est clé pour pouvoir suivre correctement en classe.
 
 Organisez-vous pendant les vacances, tout faire le dernier weekend est une **très mauvaise idée** (bien que ça puisse être *faisable*, c'est fortement déconseillé).
 
