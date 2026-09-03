@@ -11,7 +11,7 @@ weight: 2
 # bookIcon: ''
 ---
 # **Informatique**
-Site de M. Karpman : [site](https://membres-ljk.imag.fr/Pierre.Karpman/CPGE/2025/)
+Site de M. Karpman : [site](https://lzcnt.fr/CPGE/2026/)
 
 ## **Setup pour l'informatique**
 Il est **vivement recommendé** d'avoir une machine avec **Linux**, MacOS est aussi acceptable et Windows avec WSL est... utilisable.
@@ -40,7 +40,7 @@ Note : la plupart des DS de sup sont quasiment que de la programmation et de l'a
 
 ## **Tips**
 ### **Pour le C**
-Si vous chercher de la docu, le site [geekforgeeks](https://www.geeksforgeeks.org/) propose des articles sympa, vous avez aussi le [poly](https://membres-ljk.imag.fr/Pierre.Karpman/CPGE/2025/introc.pdf) rédigé par M. Karpman qui est très bien.
+Si vous chercher de la docu, le site [geekforgeeks](https://www.geeksforgeeks.org/) propose des articles sympa, vous avez aussi le [poly](https://lzcnt.fr/CPGE/2026/introc.pdf) rédigé par M. Karpman qui est très bien.
 
 Quelques recommendations de flags de compilation :
   - `-Wall` et `-Wextra`, un must, active tous les warnings du compilateur pour vous prévenir des potentiels problèmes avec votre code

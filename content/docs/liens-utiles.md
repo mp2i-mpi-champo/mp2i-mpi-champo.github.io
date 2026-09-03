@@ -19,7 +19,7 @@ bookHidden: true
 
 ## **MP2I**
 
-- [Site de M. Karpman](https://membres-ljk.imag.fr/Pierre.Karpman/CPGE/2025/)
+- [Site de M. Karpman](https://lzcnt.fr/CPGE/2026/)
 - [Site de M. Vienney](https://www.mp2i-champo.fr/)
 - [Animations de physique sympa](https://phyzik.store/)
 - [Drive pour les colles d'anglais](https://drive.google.com/drive/folders/1b3StPB9kaFj8121e5JGmR5QqkUChph9B?usp=drive_link)
@@ -27,3 +27,4 @@ bookHidden: true
 
 ## **MPI**
 - [Site de M. Pécheux](https://carnot.cpge.info/) (mot de passe : mpiplusplus) 
+- [Cours de M. Quibel](/files/integrale_mpi.pdf)
